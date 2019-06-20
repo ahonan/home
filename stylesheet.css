@@ -74,3 +74,7 @@ body{
   background: #fff url("http://goo.gl/MG8PHu") repeat left top;
   text-align:center;
 }
+
+.dropdown:hover {
+  cursor:pointer;
+}
