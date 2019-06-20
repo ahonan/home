@@ -77,4 +77,5 @@ body{
 
 .dropdown:hover {
   cursor:pointer;
+  color: white;
 }
