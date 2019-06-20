@@ -75,7 +75,10 @@ body{
   text-align:center;
 }
 
+.dropdown {
+  color: white;
+}
+
 .dropdown:hover {
   cursor:pointer;
-  color: white;
 }
